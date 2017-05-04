@@ -1,4 +1,5 @@
 # raptor-docker
+A Docker image for [Raptor](http://librdf.org/raptor/).
 
 ## Build
 Build the Docker image via `docker build -t raptor .`.
